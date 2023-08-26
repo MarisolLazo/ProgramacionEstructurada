@@ -1,0 +1,3 @@
+Nombre:Patricia Marisol Lazo Campos
+Carnet:U20230728
+Enlace de repositorio de GitHub:https://github.com/MarisolLazo/ProgramacionEstructurada
